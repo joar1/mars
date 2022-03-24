@@ -1,0 +1,49 @@
+/*generelt oppsett av siden*/
+body{
+   margin:0px;
+   background-image:url(marsplanet.jpg);
+   color:white;
+   font-size:28px;
+}
+
+
+h2{
+   text-shadow:1px 1px red;
+   text-align:center;
+}
+
+h3{
+   text-decoration:underline;
+   font-style:italic;
+}
+
+/*intro*/
+.mars-header{
+   color:red;
+   text-align:center;
+   font-size:80px;
+}
+
+/*liten innledning*/
+.mars-forord{
+   text-shadow: 4px 4px #FF0000;
+   text-align:center;
+   font-style:italic;
+   padding:10px;
+}
+
+/*en liten liste med noen fun facts og bilder*/
+.ul-list{
+   list-style-type:square;
+   color:red;
+}
+
+/*paragraf med en link til et bilde som kan se ut som et ansikt på mars*/
+.aliens{
+   color:red;
+}
+
+footer{
+   font-size:15px;
+   text-align:bottom;
+}
