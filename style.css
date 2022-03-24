@@ -1,7 +1,7 @@
 /*generelt oppsett av siden*/
 body{
    margin:0px;
-   background-image:url(marsplanet.jpg);
+   background-image:url(images/marsplanet.jpg);
    color:white;
    font-size:28px;
 }
